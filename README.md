@@ -42,4 +42,14 @@ Buy a few parts, 3D print a spacer, and slap a sturdy bar extension together.
 - Use a wrench to tighten the nut. It should be tight, but don't overtighten, or you'll crack the PVC. Again, make sure that everything is aligned.
 - Take the second coupler and repeat this process, making sure the protruding coupler threads are oriented in the same way as our first.
 - Your PVC pipe should now have a spacer sandwich: One coupler, a spacer, and the other coupler. Take your screws and insert them through the small clamp holes, into the spacer.
-  - Everything should now be tightly together, with zero give.
+  - Everything should now be tightly sandwiched together, with zero give.
+  - (Optional) Depending on your grip and preference, you can add the the pipe caps on either side. I find that these help with hand positioning and give something to grip, if you prefer to hold the sides of the bar.
+- You'll be cutting your nonslip sheet into three pieces total. Two smaller pieces will go on the hinged clamps and the large piece will span the entire clamp-spacer-clamp.
+  - The clamps should be flush with lowest portion of the spacer, but small variations can occur. If so, just use some gorilla tape or similar to make all pieces completely flush, before applying the rubber grip.
+
+## The Results
+Your bar extension should now be done! Here are some last things to do:
+- When putting the extension onto a bar, the spacer should have a somewhat snug, grippy fit.
+- The metal clamps should make no direct contact with the bar. The non-slip layer is required to prevent any damage to the bar, so double-check this before clamping.
+- I strongly suggest removing the hex nuts from the bar clamps, leaving only the wing nuts and washers. This will allow you to add/remove the bar extension without the need for tools.
+  - The wingnuts should still be screwed rather tightly, and the bar should be tested to ensure no movement.
