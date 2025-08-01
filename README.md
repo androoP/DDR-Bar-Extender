@@ -9,14 +9,10 @@ A DIY bar extender for Dance Dance Revolution
 As an elderly man who enjoys Dance Dance Revolution, I developed painful tendonitis in my right wrist, due to the game's narrow bar. The solution: Make the bar wider. This project lists all parts and processes needed to make your very own bar extension.
 
 ## Purpose
-This project exists with the following goals in mind:
-- A simple way to raise the DDR bar and/or extend its width
+This project has following goals in mind:
 - Non-destructive and easily removable
 - Inexpensive with easy-to-find materials
 - Portable
-
-## The Solution
-Buy a few parts, 3D print a spacer, and slap a sturdy bar extension together.
 
 ## The Materials
 - 2x Lighting Truss Swivel Coupler https://www.amazon.com/dp/B0BWLZRMKS - $42
