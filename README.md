@@ -24,19 +24,24 @@ This project has following goals in mind:
 - (Optional) 2x Charlotte Pipe Caps https://www.homedepot.com/p/Charlotte-Pipe-1-1-4-in-PVC-Schedule-40-Socket-Cap-PVC021161200HD/203811674
 
 ## The Process
+### Measure PVC, print spacer, center it
 - Start by taking your PVC pipe and measuring/marking its center point. Although you've purchased a 2ft length, it might not be *exactly* 2ft, so measure the actual length, divide by two, and mark the middle.
 - On each side, starting from the center mark, measure out 58mm and mark the two spots.
 - 3D Print the spacer. I used 3 wall loops, 15% infill, and suggest something sturdy like PETG.
 - Once printed, slide the spacer down the PVC pipe, so each side touches the 58mm marks you made. It should be somewhat tight, but feel free to use a small piece of tape to hold it in place, if needed.
   - The whole measuring process ensures that we're putting our 3D printed spacer as dead-center as we can.
+### Give 'em the Clamps, Clamps
 - Take one aluminum coupler and make a note of a small hole, adjacent to one of the clamps. This hole needs to be on the clamp that will attach to your DDR Bar. It should also align with the small screw hole on your spacer.
 - Open the clamp on the side that *DOES NOT* have this small hole and snug it up with the spacer as close as you can.
   - Note here: I face the coupler threads *AWAY* from the DDR pad, to avoid scratching myself. I strongly suggest ensuring that both threads are facing away from the play area.
 - Make sure the smaller hole on the coupler is aligned with the small hole on our 3D Printed Spacer. 
 - Begin clamping the PVC pipe, again making sure to keep the clamp and spacer as close as possible during this process.
 - Before we move to using a wrench on the locking nut, make sure everything looks like it's aligned. The spacer should be directly centered with the clamp, and the small hole should be centered with the spacer's screw hole.
-- Use a wrench to tighten the nut. It should be tight, but don't overtighten, or you'll crack the PVC. Again, make sure that everything is aligned.
+- Use a wrench to tighten the nut.
+  - It should be tight, but don't overtighten, or you'll crack the PVC.
+- Again, make sure that everything is aligned.
 - Take the second coupler and repeat this process, making sure the protruding coupler threads are oriented in the same way as our first.
+### The Assembly
 - Your PVC pipe should now have a spacer sandwich: One coupler, a spacer, and the other coupler. Take your screws and insert them through the small clamp holes, into the spacer.
   - Everything should now be tightly sandwiched together, with zero give.
   - (Optional) Depending on your grip and preference, you can add the the pipe caps on either side. I find that these help with hand positioning and give something to grip, if you prefer to hold the sides of the bar.
