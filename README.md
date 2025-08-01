@@ -1,7 +1,7 @@
 # DDR Bar Extender
 A DIY bar extender for Dance Dance Revolution
 
-##DISCLAIMERS
+## DISCLAIMERS
 **USE AT YOUR OWN RISK. This bar is sturdy, but I haven't tested it with everyone's unique play styles. If things slip or break, it could cause injury, so play safely and responsibly!**
 **As of now, this project has only been tested on a personal machine. Although it has not caused any damage, there's always a chance that it could! Please do not use this on public cabinets!**
 
